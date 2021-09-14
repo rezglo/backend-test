@@ -13,7 +13,7 @@ Principalmente los siguientes aspectos:
 
 ## IMPORTANTE
 1. **Se exige utilizar el framework de php (LARAVEL)**
-2. De manera optional recomendamos utilizar mongodb y/o graphql (**esto es optional pero es un plus importante a considerar**)
+2. De manera optional recomendamos utilizar **MongoDB** y/o **GraphQL** (**esto es optional pero es un plus importante a considerar**)
 3. Recomendamos emplear un máximo de **4 (cuatro) horas** y enviar todo lo que puedas.
 4. Se requiere de una **cuenta de GitHub** para realizar este ejercicio.
 5. **Al finalizar**, para entregar su proyecto:
