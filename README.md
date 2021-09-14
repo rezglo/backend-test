@@ -59,9 +59,9 @@ ABT893	        4896			        244.80
 La información de cada una de las estancias de los vehículos será almacenada en una base de datos. El manejador de base de datos puede ser modificado en cualquier momento.
 
 ##### Puntos que se deben desarrollar
-** La aplicación debe brindar las funcionalidades desde un API construida para ustedes (deben enviar junto al proyecto una simple documentación de como se llama cada endpoint de API).
+* La aplicación debe brindar las funcionalidades desde un API construida para ustedes (deben enviar junto al proyecto una simple documentación de como se llama cada endpoint de API).
 
-** No es necesario construir una interfaz visual.
+* No es necesario construir una interfaz visual.
 
 
 
