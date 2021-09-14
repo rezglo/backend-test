@@ -60,6 +60,7 @@ La información de cada una de las estancias de los vehículos será almacenada 
 
 ##### Puntos que se deben desarrollar
 ** La aplicación debe brindar las funcionalidades desde un API construida para ustedes (deben enviar junto al proyecto una simple documentación de como se llama cada endpoint de API).
+
 ** No es necesario construir una interfaz visual.
 
 
