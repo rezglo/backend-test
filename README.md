@@ -52,7 +52,7 @@ ABT893	        4896			        244.80
 ... 	        ..... 			        .....
 ```
 
-2. Mostrar listado de chapas de los 3 vehiculos que mas usan el estacionamiento. 
+2. Mostrar listado de chapas de los 3 vehiculos que más usan el estacionamiento. 
 
 
 ##### Persistencia de datos
