@@ -14,9 +14,8 @@ Principalmente los siguientes aspectos:
 ## IMPORTANTE
 1. **Se exige utilizar el framework de php (LARAVEL)**
 2. De manera optional recomendamos utilizar **MongoDB** y/o **GraphQL** (**esto es optional pero es un plus importante a considerar**)
-3. Recomendamos emplear un máximo de **4 (cuatro) horas** y enviar todo lo que puedas.
-4. Se requiere de una **cuenta de GitHub** para realizar este ejercicio.
-5. **Al finalizar**, para entregar su proyecto:
+3. Se requiere de una **cuenta de GitHub** para realizar este ejercicio.
+4. **Al finalizar**, para entregar su proyecto:
     * Se debe subir el proyecto para un repositorio publico que creen en su cuenta de github y enviar detalles (dirección del repositorio) a la siguiente dirección de correo electrónico [cvrecruitment74@gmail.com](mailto:cvrecruitment74@gmail.com).
 
 ## EJERCICIOS
