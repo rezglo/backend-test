@@ -1,5 +1,5 @@
-# Prueba Técnica - Programador (Back-end)
-La siguiente es una prueba para evaluar a los postulantes a programador **Back-end**.
+# Prueba Técnica - Programador (Back-end) (LARAVEL)
+La siguiente es una prueba para evaluar a los postulantes a programador **Back-end** (**LARAVEL**).
 
 ## INTRODUCCIÓN
 Este repositorio contiene una serie de requerimientos de un Caso Práctico, que busca evaluar las capacidades técnicas del candidato con respecto a las principales funciones y responsabilidades que se requieren dentro del área de Desarrollo de Tecnología de _Rezglo_.
@@ -12,9 +12,10 @@ Principalmente los siguientes aspectos:
 * Familiaridad con Frameworks y plataformas de desarrollo.
 
 ## IMPORTANTE
-1. Recomendamos emplear un máximo de **4 (cuatro) horas** y enviar todo lo que puedas.
-2. Se requiere de una **cuenta de GitHub** para realizar este ejercicio.
-3. **Al finalizar**, para entregar su proyecto:
+1. **Se exige utilizar el framework de php (LARAVEL)**
+2. Recomendamos emplear un máximo de **4 (cuatro) horas** y enviar todo lo que puedas.
+3. Se requiere de una **cuenta de GitHub** para realizar este ejercicio.
+4. **Al finalizar**, para entregar su proyecto:
     * Se debe subir el proyecto para un repositorio publico que creen en su cuenta de github y enviar detalles (dirección del repositorio) a la siguiente dirección de correo electrónico [cvrecruitment74@gmail.com](mailto:cvrecruitment74@gmail.com).
 
 ## EJERCICIOS
